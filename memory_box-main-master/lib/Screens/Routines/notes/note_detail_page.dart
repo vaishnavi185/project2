@@ -35,12 +35,7 @@ class _NoteDetailPageState extends State<NoteDetailPage> {
     setState(() => isLoading = false);
   }
   final _lightColors = [
-    Colors.amber.shade300,
-    Colors.lightGreen.shade300,
-    Colors.lightBlue.shade300,
-    Colors.orange.shade300,
-    Colors.pinkAccent.shade100,
-    Colors.tealAccent.shade100
+  Colors.deepPurple
   ];
 
   @override
